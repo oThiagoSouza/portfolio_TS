@@ -1,4 +1,4 @@
-import Titulo from '../../components/Titulo'
+import Titulo from '../../Components/Titulo'
 
 const Sidebar = () => (
   <aside>
