@@ -9,7 +9,7 @@ export const Descricao = styled(P)`
 export const BotaoTema = styled.button`
   color: #eee;
   background-color: #282a35;
-  border-radius: 12px;
+  border-radius: 16px;
   padding: 8px;
   cursor: pointer;
 `
