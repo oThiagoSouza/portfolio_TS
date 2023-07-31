@@ -16,6 +16,7 @@ const EstiloGlobal = createGlobalStyle`
 
     @media(max-width: 768px) {
       padding-top: 16px;
+      padding-bottom: 20px;
     }
   }
 `
